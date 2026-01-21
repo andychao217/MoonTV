@@ -1,5 +1,56 @@
 {
   "cache_time": 7200,
   "api_site": {
+    "dyttzy": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "dytt",
+      "detail": "http://caiji.dyttzyapi.com"
+    },
+    "heimuer": {
+      "api": "http://json.heimuer.xyz/api.php/provide/vod",
+      "name": "heimuer",
+      "detail": "http://heimuer.tv"
+    },
+    "ruyi": {
+      "api": "http://cj.rycjapi.com/api.php/provide/vod",
+      "name": "ruyi",
+    },
+    "bfzy": {
+      "api": "http://bfzyapi.com/api.php/provide/vod",
+      "name": "bfzy",
+    },
+    "tyyszy": {
+      "api": "http://tyyszy.com/api.php/provide/vod",
+      "name": "tyys",
+    },
+    "ffzy": {
+      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "name": "ffzy",
+    },
+    "mdzy": {
+      "api": "http://www.mdzyapi.com/api.php/provide/vod",
+      "name": "bfzy",
+    },
+    "zuid": {
+      "api": "http://api.zuidapi.com/api.php/provide/vod",
+      "name": "zuid",
+    },
+    "yinghua": {
+      "api": "http://m3u8.apiyhzy.com/api.php/provide/vod",
+      "name": "yhzy",
+    },
+    "wujin": {
+      "api": "http://api.wujinapi.me/api.php/provide/vod",
+      "name": "wj",
+    },
+    "wwzy": {
+      "api": "http://wwzy.tv/api.php/provide/vod",
+      "name": "wwzy",
+    },
+    "ikun": {
+      "api": "http://ikunzyapi.com/api.php/provide/vod",
+      "name": "ikun",
+    },
   }
+
 }
