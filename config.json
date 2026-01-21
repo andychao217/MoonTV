@@ -27,6 +27,30 @@
       "api": "http://ffzy5.tv/api.php/provide/vod",
       "name": "ffzy",
     },
+    "zy360": {
+      "api": "http://360zy.com/api.php/provide/vod",
+      "name": "360zy",
+    },
+    "iqiyi": {
+      "api": "http://www.iqiyizyapi.com/api.php/provide/vod",
+      "name": "iqiyi",
+    },
+    "wolong": {
+      "api": "http://wolongzyw.com/api.php/provide/vod",
+      "name": "wolong",
+    },
+    "jisu": {
+      "api": "http://jszyapi.com/api.php/provide/vod",
+      "name": "jisu",
+    },
+    "dbzy": {
+      "api": "http://dbzy.tv/api.php/provide/vod",
+      "name": "dbzy",
+    },
+    "mozhua": {
+      "api": "http://mozhuazy.com/api.php/provide/vod",
+      "name": "mozhua",
+    },
     "mdzy": {
       "api": "http://www.mdzyapi.com/api.php/provide/vod",
       "name": "bfzy",
@@ -52,5 +76,5 @@
       "name": "ikun",
     },
   }
-
 }
+
