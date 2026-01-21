@@ -1154,7 +1154,106 @@
 	"ikun": {
 		"api": "http://ikunzyapi.com/api.php/provide/vod",
 		"name": "ikun"
-	}
+	},
+	"foxzy_type1": {
+      "api": "https://api.foxzyapi.com/api.php/provide/vod/",
+      "name": "FOX资源(切)",
+      "detail": "https://api.foxzyapi.com"
+    },
+    "liangzi_type1": {
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "name": "量子资源(切)",
+      "detail": "http://cj.lziapi.com"
+    },
+    "shensuzu_type1": {
+      "api": "https://api.sszyapi.com/api.php/provide/vod/",
+      "name": "神速资源(切)",
+      "detail": "https://api.sszyapi.com"
+    },
+    "fanqie_qie_type1": {
+      "api": "http://api.fqzy.cc/api.php/provide/vod/",
+      "name": "番茄资源(切)",
+      "detail": "http://api.fqzy.cc"
+    },
+    "yinghua_qie_type1": {
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "name": "樱花资源(切)",
+      "detail": "https://m3u8.apiyhzy.com"
+    },
+    "xiangkan_type1": {
+      "api": "https://m3u8.xiangkanapi.com/api.php/provide/vod/",
+      "name": "想看资源(切)",
+      "detail": "https://m3u8.xiangkanapi.com"
+    },
+    "kudian_qie_type1": {
+      "api": "https://kudianzy.com/api.php/provide/vod/",
+      "name": "酷点资源(切)",
+      "detail": "https://kudianzy.com"
+    },
+    "sugeng_qie_type1": {
+      "api": "https://sugengzy.cn/api.php/provide/vod/",
+      "name": "速更资源(切)",
+      "detail": "https://sugengzy.cn"
+    },
+    "shandian_qie_type1": {
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "name": "闪电资源(切)",
+      "detail": "http://sdzyapi.com"
+    },
+    "guangsu_type1": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "name": "光速资源(切)",
+      "detail": "https://api.guangsuapi.com"
+    },
+    "xinlang_type1": {
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "name": "新浪资源(切)",
+      "detail": "http://api.xinlangapi.com"
+    },
+    "yule_qie_type1": {
+      "api": "https://api.ylzy1.com/api.php/provide/vod/",
+      "name": "鱼乐资源(切)",
+      "detail": "https://api.ylzy1.com"
+    },
+    "hanju_qie_type1": {
+      "api": "http://www.hanjuzy.com/inc/apijson_vod.php",
+      "name": "韩剧资源(切)",
+      "detail": "http://www.hanjuzy.com"
+    },
+    "kuaibo_qie_type1": {
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/",
+      "name": "快播资源(切)",
+      "detail": "http://www.kuaibozy.com"
+    },
+    "bajie_qie_type1": {
+      "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
+      "name": "八戒资源(切)",
+      "detail": "http://cj.bajiecaiji.com"
+    },
+    "baidu_qie_type1": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "name": "百度资源(切)",
+      "detail": "https://api.apibdzy.com"
+    },
+    "wujin2_type1": {
+      "api": "https://wuzy9.com/api.php/provide/vod/",
+      "name": "无尽资源2(切)",
+      "detail": "https://wuzy9.com"
+    },
+    "wujin_qie_type1": {
+      "api": "https://wujinzy.com/api.php/provide/vod/",
+      "name": "无尽资源(切)",
+      "detail": "https://wujinzy.com"
+    },
+    "leduo_qie_type0": {
+      "api": "http://cj.leduocaiji.com/inc/api.php",
+      "name": "乐多资源(切)",
+      "detail": "http://cj.leduocaiji.com"
+    },
+    "nanguoyingyuan_type1": {
+      "api": "http://api.nguonphim.tv/api.php/provide/vod/",
+      "name": "南国影源(切)",
+      "detail": "http://api.nguonphim.tv"
+    }
   }
 }
-
